@@ -31,5 +31,12 @@
 }
 
 .about {
-
+  font-family: fantasy;
+  color: white;
+  background-color: #3a34af;
+  border-radius: 20%;
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding: 15px;
 }
