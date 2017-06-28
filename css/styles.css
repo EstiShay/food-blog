@@ -1,0 +1,35 @@
+.burger {
+  background-color: #e8f5f9;
+  padding: 20px;
+
+}
+.burger img {
+  height: 200px;
+  display:block;
+  margin: auto;
+}
+
+.smoothie {
+  background-color: #f9e8f4;
+  padding: 20px;
+}
+.smoothie img {
+  height: 200px;
+  display:block;
+  margin: auto;
+}
+
+.dessert {
+  background-color: #edf9e8;
+  padding: 20px;
+}
+
+.dessert img {
+  height: 200px;
+  display:block;
+  margin: auto;
+}
+
+.about {
+
+}
