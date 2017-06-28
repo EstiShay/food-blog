@@ -1,33 +1,48 @@
+h1 {
+  color: #1e7039;
+  font-family: Noteworthy, serif;
+}
+
 .burger {
   background-color: #e8f5f9;
   padding: 20px;
-
+  margin-bottom: 20px;
+  color: #4f4f51;
 }
+
 .burger img {
   height: 200px;
   display:block;
   margin: auto;
+  border: 5px solid #4f4f51;
 }
 
 .smoothie {
   background-color: #f9e8f4;
   padding: 20px;
+  margin-bottom: 20px;
+  color: #56374c;
 }
+
 .smoothie img {
   height: 200px;
   display:block;
   margin: auto;
+  border: 5px solid #56374c;
 }
 
 .dessert {
   background-color: #edf9e8;
   padding: 20px;
+  margin-bottom: 20px;
+  color: #47375b;
 }
 
 .dessert img {
   height: 200px;
   display:block;
   margin: auto;
+  border: 5px solid #47375b;
 }
 
 .about {
